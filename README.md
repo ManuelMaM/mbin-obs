@@ -16,4 +16,4 @@ Exemple :
 You could use [RtlIpv6StringToAddressA](https://docs.microsoft.com/en-us/windows/win32/api/ip2string/nf-ip2string-rtlipv6stringtoaddressa "IPV6")
  or [RtlIpv4StringToAddressA](https://docs.microsoft.com/en-us/windows/win32/api/ip2string/nf-ip2string-rtlipv4stringtoaddressa "IPV4") to convert those ASCII text to binary code.
 
-Used by [Hive ransomware gang](https://www.sentinelone.com/blog/hive-ransomware-deploys-novel-ipfuscation-technique/) to encode shell payloads.
+Used by [Hive ransomware gang](https://www.sentinelone.com/blog/hive-ransomware-deploys-novel-ipfuscation-technique/) to encode shellcode payloads.
