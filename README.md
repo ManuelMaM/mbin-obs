@@ -2,13 +2,13 @@
 
 Obfuscate -> Binary code into ipv4 / ipv6 / mac / uuid adresses <-
 
-Instalation: `pip3 install mbinobs` or cHlone repo and run `pip3 install .`
+Instalation: `pip3 install mbinobs` or clone repo and run `pip3 install .`
 
 Command line usage : `python3 -m mbinobs binary.bin ipv4/ipv6/mac/uuid`
 
 Exemple :
 ```
-3m@ss:~/IPfuscation$ echo 'qwertyuiopasdfghjkl123456789' > test.bin
+3m@ss:~/mbin-obs$ echo 'qwertyuiopasdfghjkl123456789' > test.bin
 
 Binary encoded as ipv4:
 ['113.119.101.114', '116.121.117.105', '111.112.97.115', '100.102.103.104', '106.107.108.49',

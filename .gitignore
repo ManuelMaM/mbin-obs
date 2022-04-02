@@ -2,3 +2,4 @@
 **/dist
 **/src/mbinobs.egg-info
 **/src/mbinobs/__pycache__
+pypi_upload.sh
